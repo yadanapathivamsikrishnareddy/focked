@@ -1,2 +1,2 @@
-# focked
-[focked]('https://github.com/jtleek/datasharing')
+# focke
+https://github.com/jtleek/datasharing
